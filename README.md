@@ -3,7 +3,9 @@ Extract region of interest from funduscamera images
 
 Part of the final engingeering project from Warsaw's University of Technology, Faculty of Electronics and Information Technology
 
-This repository holds Python files implemented for preprocessing of funduscamera images in order to build a galucoma classifier
+This repository holds Python files implemented for preprocessing of funduscamera images in order to build a galucoma classifier. The algorithm itself finds swarms of max intensity pixels on a few different colorspaces and then uses these points to define the optic disc center with high accuracy. 
+
+On the test data this algorithm achieved 96,69% accuracy. The cropping result was deemed accurate when the optic disc was present in the result image in its enitrety or at least the large portion of the disc was present.
 
 Publication link: [to be added]
 
