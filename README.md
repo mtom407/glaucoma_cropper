@@ -9,5 +9,5 @@ Publication link: [to be added]
 
 Example of the results gotten with the algorithm:
 
-![Screenshot](docs/example_1.png)
+![Cropping_1](main/docs/example_1.png)
 
