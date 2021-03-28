@@ -7,3 +7,7 @@ This repository holds Python files implemented for preprocessing of funduscamera
 
 Publication link: [to be added]
 
+Example of the results gotten with the algorithm:
+
+![Screenshot](docs/example_1.png)
+
