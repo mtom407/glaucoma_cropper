@@ -9,6 +9,6 @@ Publication link: [to be added]
 
 Example of the results gotten with the algorithm:
 
-![Healthy](https://github.com/mtom407/glaucoma_cropper/blob/main/docs/images/example_1.png)
-![Unhealthy](https://github.com/mtom407/glaucoma_cropper/blob/main/docs/images/example_2.png)
+![Healthy](https://github.com/mtom407/glaucoma_cropper/blob/main/docs/images/example_1.png) ![Unhealthy](https://github.com/mtom407/glaucoma_cropper/blob/main/docs/images/example_2.png)
+
 
