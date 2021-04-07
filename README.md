@@ -9,6 +9,8 @@ On the data used for this project presented algorithm achieved 96,69% accuracy. 
 
 Publication link: [to be added]
 
+[Package requirements](https://github.com/mtom407/retinal_segmentation/blob/main/requirements.txt)
+
 Example of the results gotten with the algorithm:
 
 ![Healthy](https://github.com/mtom407/glaucoma_cropper/blob/main/docs/images/example_1.png) ![Unhealthy](https://github.com/mtom407/glaucoma_cropper/blob/main/docs/images/example_2.png)
